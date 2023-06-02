@@ -96,7 +96,7 @@ HELP_REPLY_MARKUP = InlineKeyboardMarkup([
 
 START_MESSAGE_REPLY_MARKUP  = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton('Get Api', url=f'https://ShortnerFly.com/member/tools/api')
+        InlineKeyboardButton('Get Api', url=f'https://simonlinks.com/member/tools/api')
     ]
 ])
 
@@ -129,9 +129,9 @@ USER_ABOUT_MESSAGE = """
 SHORTENER_API_MESSAGE = """To add or update your Shortner Website API, 
 `/set_api [api]`
             
-Ex: `/api de303d5270f481aec928f39883da7b7f9a8812ac `
+Ex: `/api 893c0de390c3d00426347e7e2e799d8fe8242185 `
 
-Get API From [{base_site}](https://shortnerfly/ref/rngharman)
+Get API From [{base_site}](https://simonlinks.com/ref/Guardian)
 
 Current {base_site} API: `{shortener_api}`"""
 
