@@ -1,6 +1,3 @@
-# Don't Edit
-
-
 import asyncio
 import datetime
 import logging
